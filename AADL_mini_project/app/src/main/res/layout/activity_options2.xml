@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".Feedback">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="166dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="122dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/wed_hall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/oappointment"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/option_button"
+            android:text="Appointment" />
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/oimages"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/option_button"
+            android:text="images"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/ofeedback"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/option_button"
+            android:text="Feedback"
+            android:layout_gravity="center_horizontal"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

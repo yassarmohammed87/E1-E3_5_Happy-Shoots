@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">lr</string>
+    <string name="action_settings">Settings</string>
+    <string name="feedback">Feedback</string>
+    <string name="appointmet">Appointmet</string>
+    <string name="gallery">Gallery</string>
+    <string name="submit">submit</string>
+    <string name="email">email</string>
+    <string name="rate_your_experience">Rate Your Experience</string>
+    <string name="tusername">Username</string>
+    <string name="enter_date">enter_date</string>
+    <string name="enter_time_of_appointment">appt_time</string>
+    <string name="enter_phone_number">ph_number</string>
+    <string name="enter_email">enter_email</string>
+    <string name="enter_your_name">name_appt</string>
+    <string name="book_an_appointment">BOOK AN APPOINTMENT</string>
+    <string name="picker">pick_location</string>
+    <string name="pick_a_location">PICK A LOCATION</string>
+    <string name="submit_appointment">Submit</string>
+    <string name="thank_you">THANK YOU</string>
+    <string name="return_options">Click here to go back to options page</string>
+    <string name="tfeedback">Feedback</string>
+    <string name="upload_pic">UPLOAD</string>
+    <string name="submit_app">Submit</string>
+    <string name="appointment_time">APPOINTMENT TIME</string>
+    <string name="email_appt">EMAIL</string>
+    <string name="email_app">EMAIL</string>
+    <string name="name_app">NAME</string>
+    <string name="phone_number_appointment">PHONE NUMBER</string>
+    <string name="date_appointment">DATE</string>
+    <string name="sunmit_app">SUBMIT</string>
+</resources>
